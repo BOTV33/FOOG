@@ -14,25 +14,25 @@
   },
   "repository": {
     "type": "git",
-    "url": "X"
+    "url": "https://github.com/BOTX666/BOTX666.git"
   },
   "keywords": [
     "bot",
     "facebook",
-    "shahadatproject",
+    "Belaltproject",
     "messenger",
     "javascript",
-    "shadat",
-    "ullash",
-    "shahadat sahu",
-    "shahadat chat bot"
+    "Belal",
+    "belal YT",
+    "Belal",
+    "BELAL BOTX666"
   ],
-  "author": "SHAHADAT SAHU",
+  "author": "Belal BOT ",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues"
+    "url": "https://github.com/BOTX666/issues"
   },
-  "homepage": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues",
+  "homepage": "https://github.com/BOTX666/issues",
   "dependencies": {
     "@distube/ytdl-core": "^4.13.2",
     "@miraipr0ject/assets": "^1.0.9",
