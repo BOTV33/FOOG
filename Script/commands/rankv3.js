@@ -1,5 +1,5 @@
 module.exports.config = {
-	name: "rank",
+	name: "rankv3",
 	version: "2.0.0",
 	hasPermssion: 0,
 	credits: "rX",
